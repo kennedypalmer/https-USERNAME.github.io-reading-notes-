@@ -35,5 +35,7 @@ Here is a clean list of [Markdown basics](https://www.markdownguide.org/basic-sy
 
  
 
+## *Fill in Blanks Answers:*
+{Gists, comments, pull, largest, smallest, italics, bold, italics, bold, unordered, ordered, brackets, parentheses}
 
 
